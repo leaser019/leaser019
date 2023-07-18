@@ -1,4 +1,4 @@
-![Vo Minh Khang's GitHub Banner]([https://github.com/leaser019/PlantVsZombie/assets/91241850/8ae74dad-b7c3-4424-8a42-876ee47af3fe](https://github.com/leaser019/PlantVsZombie/assets/91241850/655bd20f-6414-43e1-948e-da321e7ea12f))
+![Vo Minh Khang's GitHub Banner](https://github.com/leaser019/PlantVsZombie/assets/91241850/6d9000a6-d622-440d-bcef-e7980021741d)
 <h1 align="center">Hi 👋, I'm Vo Minh Khang</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
