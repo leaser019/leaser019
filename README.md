@@ -1,3 +1,4 @@
+![Vo Minh Khang's GitHub Banner](https://github.com/leaser019/PlantVsZombie/assets/91241850/8ae74dad-b7c3-4424-8a42-876ee47af3fe)
 <h1 align="center">Hi 👋, I'm Vo Minh Khang</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
