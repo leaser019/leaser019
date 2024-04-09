@@ -12,12 +12,12 @@
 <!--- snake
 ![github-contribution-grid-snake](https://github.com/leaser019/leaser019/assets/91241850/bd076754-806f-4ab7-b4bc-89c4daf08041) -->
 <div align="center">
-<!--   <img src="https://github.com/leaser019/leaser019/assets/91241850/bd076754-806f-4ab7-b4bc-89c4daf08041"> -->
-  <picture>
+  <img src="https://github.com/leaser019/leaser019/blob/output/github-contribution-grid-snake2.svg)">
+<!--   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="![snake animation](https://github.com/leaser019/leaser019/blob/output/github-contribution-grid-snake2.svg)">
   <source media="(prefers-color-scheme: light)" srcset="![snake animation](https://github.com/leaser019/leaser019/blob/output/github-contribution-grid-snake2.svg)">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="![snake animation](https://github.com/leaser019/leaser019/blob/output/github-contribution-grid-snake2.svg)">
-</picture>
+</picture> -->
 </div> 
 
 
