@@ -33,7 +33,7 @@
 -->
 
 <!--Intro start-->
-- 🔭 I’m currently Junior in International University - National University Ho Chi Minh City
+- 🔭 I’m currently Computer Science Student in International University - National University Ho Chi Minh City
 
 <!-- - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
 
@@ -84,13 +84,13 @@
   </ul>
 </div>
 
-<!--tech stack icons 
-<p align="center">
+<!--tech stack icons -->
+<p align="center" style="margin-top:"3px" ">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,github,html,java,js,mysql,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,redux,nextjs,java,mysql,docker,express,flask,mongodb&perline=14" />
   </a>
 </p>
--->
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
